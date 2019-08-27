@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/help2frame0" android:duration="500" />
+    <item android:drawable="@drawable/help2frame1" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame2" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame3" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame4" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame5" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame6" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame7" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame8" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame9" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame10" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame11" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame12" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame13" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame14" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame15" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame16" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame17" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame18" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame19" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame21" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame22" android:duration="200"/>
+    <item android:drawable="@drawable/help2frame23" android:duration="100"/>
+    <item android:drawable="@drawable/help2frame24" android:duration="100"/>
+    <item android:drawable="@drawable/help2frame25" android:duration="500"/>
+    <item android:drawable="@drawable/help2frame26" android:duration="500"/>
+</animation-list>

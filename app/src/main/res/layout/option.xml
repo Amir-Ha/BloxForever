@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#1E1E1E"
+        android:id="@+id/nextLevel">
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Reset All "
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/resetAllbtn"/>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Turn sounds off/on "
+            android:textSize="30dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/soundbtn"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:src="@drawable/bloxlogo"/>
+        </LinearLayout>
+</LinearLayout>

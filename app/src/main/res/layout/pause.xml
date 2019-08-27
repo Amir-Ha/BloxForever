@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:weightSum="5"
+        android:background="#1E1E1E">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Resume"
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/resumebtn"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Sound Off/on"
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/soundPausebtn"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Help"
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/helpbtn"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Levels"
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/levelsbtn"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Quit"
+            android:textSize="40dp"
+            android:textColor="@android:color/white"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:id="@+id/quitbtn"/>
+        </LinearLayout>
+</LinearLayout>
